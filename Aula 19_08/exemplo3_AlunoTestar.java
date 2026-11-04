@@ -8,7 +8,7 @@ public class AlunoTestar {
         Aluno aluno2 = new Aluno();
 
         aluno1.setNome("Tiago");
-        aluno2.setNome("Coutinho Gostoso");
+        aluno2.setNome("Coutinho");
 
         System.out.println(aluno1.getNome());
         aluno1.setIdade(140);
